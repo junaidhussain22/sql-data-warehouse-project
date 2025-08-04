@@ -29,9 +29,9 @@ This project involves:
 
 ---
 
-## 🎯 Who Is This For?
+## 🎯 What does this project cover?
 
-This repository is an excellent resource for professionals and students looking to showcase expertise in:
+This repository is an attempt to showcase my understanding in:
 
 - SQL Development
 - Data Architecture
@@ -44,7 +44,6 @@ This repository is an excellent resource for professionals and students looking 
 
 ## 🛠️ Important Links & Tools
 
-Everything is for Free!
 
 - **Datasets:** Access to the project dataset (CSV files)
 - **SQL Server Express:** Lightweight server for hosting your SQL database
